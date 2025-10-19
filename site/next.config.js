@@ -7,7 +7,7 @@ const nextConfig = {
     name: 'LBHL',
     description: 'The official store for LBHL supported workspaces.',
     icon: '/https://raw.githubusercontent.com/LocalBuddhist/Pictures/refs/heads/main/LBlab%20smol.png',
-    listUrl: 'https://registry.kasmweb.com/',
+    listUrl: 'https://localbuddhist.github.io/LBHL-Kasm-Repo/',
     contactUrl: 'https://github.com/LocalBuddhist/LBHL-Kasm-Repo/issues',
   },
   reactStrictMode: true,
