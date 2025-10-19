@@ -6,12 +6,12 @@ const nextConfig = {
   env: {
     name: 'LBHL',
     description: 'The official store for LBHL supported workspaces.',
-    icon: '/https://raw.githubusercontent.com/LocalBuddhist/Pictures/refs/heads/main/LBlab%20smol.png',
+    icon: 'https://localbuddhist.github.io/LBHL-Kasm-Repo/1.1/icon.png',
     listUrl: 'https://localbuddhist.github.io/LBHL-Kasm-Repo/',
     contactUrl: 'https://github.com/LocalBuddhist/LBHL-Kasm-Repo/issues',
   },
   reactStrictMode: true,
-  basePath: '/kasm-registry/1.0',
+  basePath: '/kasm-registry/1.1',
   trailingSlash: true,
   images: {
     unoptimized: true,
